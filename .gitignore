@@ -1,6 +1,7 @@
-data/input/algoseek/full_depth
-data/output/algoseek/full_depth
+data/input/algoseek/full_depth/*
+data/output/algoseek/full_depth/*
 venv/*
 .idea/*
 .DS_Store
 .idea
+src/__pycache__/*
